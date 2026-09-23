@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Euclidean and Wasserstein 1-Nearest-Neighbour (1-NN) Classification Under Image Translations"
+authors:
+  - family-names: Dhoot
+    given-names: Vinamra
+  - family-names: Goyal
+    given-names: Kyros
+version: 1.0.0
+date-released: 2026-09-23

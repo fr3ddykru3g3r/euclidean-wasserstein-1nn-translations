@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+scipy
+threadpoolctl
+POT
