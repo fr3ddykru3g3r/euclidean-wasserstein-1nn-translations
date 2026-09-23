@@ -1,6 +1,6 @@
 # Euclidean and Wasserstein 1-NN Classification Under Image Translations
 
-Code for the study by Vinamra Dhoot and Kyros Goyal, who are credited as equal contributors in the manuscript.
+Code for the study by Vinamra Dhoot and Kyros Goyal.
 
 The paper compares Euclidean and exact 1-Wasserstein distances in a 1-nearest-neighbour classifier on scikit-learn's handwritten-digits dataset. It also evaluates translation-optimized Euclidean (TOE) comparison and a sufficient certificate for robustness to bounded integer translations.
 
@@ -55,7 +55,7 @@ At the default sample sizes, the second script reports 405,000 exact transport p
 
 ## Reported results
 
-These are the values reported in the manuscript, not results freshly regenerated while preparing this repository.
+These are the values reported in the manuscript.
 
 | Method | Untranslated | 1-pixel shifts | 2-pixel shifts |
 | --- | ---: | ---: | ---: |
